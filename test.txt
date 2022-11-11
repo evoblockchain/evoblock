@@ -1,1 +1,3 @@
 hello test !
+make tag v1.0.0
+
